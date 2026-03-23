@@ -1,0 +1,809 @@
+﻿region,department,sector,demand_value,demand_score
+Auvergne-RhÃ´ne-Alpes,Ain,Autres mÃ©tiers,2085,0.04173422206209092
+Auvergne-RhÃ´ne-Alpes,Ain,Autres techniciens et employÃ©s,533,0.010668748373666407
+Auvergne-RhÃ´ne-Alpes,Ain,Fonctions administratives,747,0.014952260853900199
+Auvergne-RhÃ´ne-Alpes,Ain,Fonctions d'encadrement,1031,0.02063692227626654
+"Auvergne-RhÃ´ne-Alpes,Ain,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4579,0.09165515722892772"
+Auvergne-RhÃ´ne-Alpes,Ain,Fonctions sociales et mÃ©dico-sociales,1696,0.03394783722652575
+Auvergne-RhÃ´ne-Alpes,Ain,Ouvriers de la construction et du bÃ¢timent,1249,0.025000500410336475
+Auvergne-RhÃ´ne-Alpes,Ain,Ouvriers des secteurs de l'industrie,2543,0.05090173942632959
+Auvergne-RhÃ´ne-Alpes,Allier,Autres mÃ©tiers,1410,0.02822314297724134
+Auvergne-RhÃ´ne-Alpes,Allier,Autres techniciens et employÃ©s,188,0.003763085730298845
+Auvergne-RhÃ´ne-Alpes,Allier,Fonctions administratives,506,0.010128305210272423
+Auvergne-RhÃ´ne-Alpes,Allier,Fonctions d'encadrement,729,0.014591965411637544
+"Auvergne-RhÃ´ne-Alpes,Allier,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3114,0.06233111151143938"
+Auvergne-RhÃ´ne-Alpes,Allier,Fonctions sociales et mÃ©dico-sociales,957,0.019155707680297843
+Auvergne-RhÃ´ne-Alpes,Allier,Ouvriers de la construction et du bÃ¢timent,560,0.01120919153706039
+Auvergne-RhÃ´ne-Alpes,Allier,Ouvriers des secteurs de l'industrie,1034,0.02069697151664365
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Autres mÃ©tiers,2921,0.05846794371384535
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Autres techniciens et employÃ©s,90,0.0018014772113132769
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Fonctions administratives,613,0.01227006145038932
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Fonctions d'encadrement,709,0.014191637142456815
+"Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4207,0.08420905142216617"
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Fonctions sociales et mÃ©dico-sociales,1112,0.022258251766448488
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Ouvriers de la construction et du bÃ¢timent,609,0.012189995796553174
+Auvergne-RhÃ´ne-Alpes,ArdÃ¨che,Ouvriers des secteurs de l'industrie,1256,0.02514061530454973
+Auvergne-RhÃ´ne-Alpes,Cantal,Autres mÃ©tiers,666,0.013330931363718249
+Auvergne-RhÃ´ne-Alpes,Cantal,Autres techniciens et employÃ©s,57,0.0011409355671650754
+Auvergne-RhÃ´ne-Alpes,Cantal,Fonctions administratives,125,0.0025020516823795512
+Auvergne-RhÃ´ne-Alpes,Cantal,Fonctions d'encadrement,117,0.00234192037470726
+"Auvergne-RhÃ´ne-Alpes,Cantal,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1691,0.033847755159230566"
+Auvergne-RhÃ´ne-Alpes,Cantal,Fonctions sociales et mÃ©dico-sociales,423,0.008466942893172402
+Auvergne-RhÃ´ne-Alpes,Cantal,Ouvriers de la construction et du bÃ¢timent,324,0.006485317960727797
+Auvergne-RhÃ´ne-Alpes,Cantal,Ouvriers des secteurs de l'industrie,496,0.00992814107568206
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Autres mÃ©tiers,6295,0.1260033227246342
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Autres techniciens et employÃ©s,468,0.00936768149882904
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Fonctions administratives,794,0.01589303228647491
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Fonctions d'encadrement,1192,0.0238595648431714
+"Auvergne-RhÃ´ne-Alpes,DrÃ´me,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6691,0.13392982245441262"
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Fonctions sociales et mÃ©dico-sociales,1873,0.037490742408775195
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Ouvriers de la construction et du bÃ¢timent,1107,0.022158169699153307
+Auvergne-RhÃ´ne-Alpes,DrÃ´me,Ouvriers des secteurs de l'industrie,2860,0.057246942492844136
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Autres mÃ©tiers,780,0.0156128024980484
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Autres techniciens et employÃ©s,104,0.0020817069997397866
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Fonctions administratives,350,0.0070057447106627434
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Fonctions d'encadrement,337,0.00674553133569527
+"Auvergne-RhÃ´ne-Alpes,Haute-Loire,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2429,0.04861986829199944"
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Fonctions sociales et mÃ©dico-sociales,1166,0.023339138093236456
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Ouvriers de la construction et du bÃ¢timent,370,0.007406072979843472
+Auvergne-RhÃ´ne-Alpes,Haute-Loire,Ouvriers des secteurs de l'industrie,1025,0.02051682379551232
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Autres mÃ©tiers,2868,0.05740707380051643
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Autres techniciens et employÃ©s,695,0.013911407354030306
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Fonctions administratives,1779,0.03560919954362577
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Fonctions d'encadrement,1971,0.03945235092776076
+"Auvergne-RhÃ´ne-Alpes,Haute-Savoie,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15646,0.31317680498008366"
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Fonctions sociales et mÃ©dico-sociales,3712,0.07430092675994315
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Ouvriers de la construction et du bÃ¢timent,2152,0.043075321763846354
+Auvergne-RhÃ´ne-Alpes,Haute-Savoie,Ouvriers des secteurs de l'industrie,2421,0.04845973698432715
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Autres mÃ©tiers,4506,0.09019395904641807
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Autres techniciens et employÃ©s,1528,0.030585079765407634
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Fonctions administratives,1949,0.039011989831661965
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Fonctions d'encadrement,4710,0.09427730739206149
+"Auvergne-RhÃ´ne-Alpes,IsÃ¨re,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",11444,0.22906783562521268"
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Fonctions sociales et mÃ©dico-sociales,4827,0.09661922776676875
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Ouvriers de la construction et du bÃ¢timent,3084,0.06173061910766829
+Auvergne-RhÃ´ne-Alpes,IsÃ¨re,Ouvriers des secteurs de l'industrie,3954,0.07914489881702996
+Auvergne-RhÃ´ne-Alpes,Loire,Autres mÃ©tiers,2418,0.04839968774395004
+Auvergne-RhÃ´ne-Alpes,Loire,Autres techniciens et employÃ©s,449,0.008987369643107349
+Auvergne-RhÃ´ne-Alpes,Loire,Fonctions administratives,1012,0.020256610420544847
+Auvergne-RhÃ´ne-Alpes,Loire,Fonctions d'encadrement,1466,0.02934406213094738
+"Auvergne-RhÃ´ne-Alpes,Loire,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",5555,0.11119117676494726"
+Auvergne-RhÃ´ne-Alpes,Loire,Fonctions sociales et mÃ©dico-sociales,2324,0.04651814487880062
+Auvergne-RhÃ´ne-Alpes,Loire,Ouvriers de la construction et du bÃ¢timent,1136,0.02273864568946536
+Auvergne-RhÃ´ne-Alpes,Loire,Ouvriers des secteurs de l'industrie,2734,0.054724874397005546
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Autres mÃ©tiers,3411,0.0682759863087732
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Autres techniciens et employÃ©s,457,0.00914750095077964
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Fonctions administratives,1359,0.027202305890830482
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Fonctions d'encadrement,1609,0.03220640925558958
+"Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",7925,0.15863007666286355"
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Fonctions sociales et mÃ©dico-sociales,2033,0.04069336856222102
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Ouvriers de la construction et du bÃ¢timent,1517,0.030364899217358233
+Auvergne-RhÃ´ne-Alpes,Puy-de-DÃ´me,Ouvriers des secteurs de l'industrie,2191,0.043855961888748775
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Autres mÃ©tiers,9142,0.18299005184251085
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Autres techniciens et employÃ©s,3057,0.061190175944274304
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Fonctions administratives,6226,0.12462219019596069
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Fonctions d'encadrement,11165,0.2234832562701415
+"Auvergne-RhÃ´ne-Alpes,RhÃ´ne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",23995,0.48029384094957867"
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Fonctions sociales et mÃ©dico-sociales,9597,0.19209751996637242
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Ouvriers de la construction et du bÃ¢timent,3754,0.07514161612522269
+Auvergne-RhÃ´ne-Alpes,RhÃ´ne,Ouvriers des secteurs de l'industrie,5510,0.11029043815929061
+Auvergne-RhÃ´ne-Alpes,Savoie,Autres mÃ©tiers,2944,0.05892832122340319
+Auvergne-RhÃ´ne-Alpes,Savoie,Autres techniciens et employÃ©s,739,0.014792129546227908
+Auvergne-RhÃ´ne-Alpes,Savoie,Fonctions administratives,1359,0.027202305890830482
+Auvergne-RhÃ´ne-Alpes,Savoie,Fonctions d'encadrement,1524,0.03050501411157149
+"Auvergne-RhÃ´ne-Alpes,Savoie,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",14834,0.2969234772513461"
+Auvergne-RhÃ´ne-Alpes,Savoie,Fonctions sociales et mÃ©dico-sociales,2309,0.04621789867691507
+Auvergne-RhÃ´ne-Alpes,Savoie,Ouvriers de la construction et du bÃ¢timent,2172,0.043475650033027086
+Auvergne-RhÃ´ne-Alpes,Savoie,Ouvriers des secteurs de l'industrie,1671,0.03344742689004984
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Autres mÃ©tiers,6233,0.12476230509017394
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Autres techniciens et employÃ©s,668,0.013370964190636322
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Fonctions administratives,1075,0.02151764446846414
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Fonctions d'encadrement,1394,0.027902880361896757
+"Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6934,0.13879381092495846"
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Fonctions sociales et mÃ©dico-sociales,1814,0.03630977401469205
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Ouvriers de la construction et du bÃ¢timent,1244,0.024900418343041294
+Bourgogne-Franche-ComtÃ©,CÃ´te-d'Or,Ouvriers des secteurs de l'industrie,1710,0.03422806701495226
+Bourgogne-Franche-ComtÃ©,Doubs,Autres mÃ©tiers,1402,0.02806301166956905
+Bourgogne-Franche-ComtÃ©,Doubs,Autres techniciens et employÃ©s,324,0.006485317960727797
+Bourgogne-Franche-ComtÃ©,Doubs,Fonctions administratives,586,0.011729618286995336
+Bourgogne-Franche-ComtÃ©,Doubs,Fonctions d'encadrement,1097,0.02195800556456294
+"Bourgogne-Franche-ComtÃ©,Doubs,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",5566,0.11141135731299666"
+Bourgogne-Franche-ComtÃ©,Doubs,Fonctions sociales et mÃ©dico-sociales,2031,0.04065333573530295
+Bourgogne-Franche-ComtÃ©,Doubs,Ouvriers de la construction et du bÃ¢timent,1011,0.02023659400708581
+Bourgogne-Franche-ComtÃ©,Doubs,Ouvriers des secteurs de l'industrie,1952,0.03907203907203907
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Autres mÃ©tiers,671,0.013431013431013432
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Autres techniciens et employÃ©s,49,0.000980804259492784
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Fonctions administratives,233,0.0046638243359554835
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Fonctions d'encadrement,303,0.006064973278088032
+"Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1643,0.03288696731319682"
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Fonctions sociales et mÃ©dico-sociales,1284,0.02570107488140275
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Ouvriers de la construction et du bÃ¢timent,231,0.004623791509037411
+Bourgogne-Franche-ComtÃ©,Haute-SaÃ´ne,Ouvriers des secteurs de l'industrie,493,0.009868091835304951
+Bourgogne-Franche-ComtÃ©,Jura,Autres mÃ©tiers,1372,0.027462519265797954
+Bourgogne-Franche-ComtÃ©,Jura,Autres techniciens et employÃ©s,196,0.003923217037971136
+Bourgogne-Franche-ComtÃ©,Jura,Fonctions administratives,239,0.004783922816709702
+Bourgogne-Franche-ComtÃ©,Jura,Fonctions d'encadrement,331,0.006625432854941052
+"Bourgogne-Franche-ComtÃ©,Jura,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2919,0.05842791088692728"
+Bourgogne-Franche-ComtÃ©,Jura,Fonctions sociales et mÃ©dico-sociales,1065,0.021317480333873776
+Bourgogne-Franche-ComtÃ©,Jura,Ouvriers de la construction et du bÃ¢timent,719,0.01439180127704718
+Bourgogne-Franche-ComtÃ©,Jura,Ouvriers des secteurs de l'industrie,1345,0.02692207610240397
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Autres mÃ©tiers,1132,0.022658580035629216
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Autres techniciens et employÃ©s,78,0.00156128024980484
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Fonctions administratives,178,0.003562921595708481
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Fonctions d'encadrement,388,0.007766368422106127
+"Bourgogne-Franche-ComtÃ©,NiÃ¨vre,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1860,0.037230529033807726"
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Fonctions sociales et mÃ©dico-sociales,998,0.01997638063211834
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Ouvriers de la construction et du bÃ¢timent,427,0.008547008547008548
+Bourgogne-Franche-ComtÃ©,NiÃ¨vre,Ouvriers des secteurs de l'industrie,381,0.007626253527892872
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Autres mÃ©tiers,4462,0.08931323685422046
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Autres techniciens et employÃ©s,315,0.006305170239596469
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Fonctions administratives,679,0.013591144738685723
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Fonctions d'encadrement,825,0.016513541103705037
+"Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6072,0.12153966252326909"
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Fonctions sociales et mÃ©dico-sociales,2415,0.04833963850357293
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Ouvriers de la construction et du bÃ¢timent,1310,0.0262215016313377
+Bourgogne-Franche-ComtÃ©,SaÃ´ne-et-Loire,Ouvriers des secteurs de l'industrie,1382,0.02766268340038832
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Autres mÃ©tiers,120,0.002401969615084369
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Autres techniciens et employÃ©s,68,0.0013611161152144759
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Fonctions administratives,119,0.0023819532016253328
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Fonctions d'encadrement,233,0.0046638243359554835
+"Bourgogne-Franche-ComtÃ©,Territoire de Belfort,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1432,0.02866350407334014"
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Fonctions sociales et mÃ©dico-sociales,773,0.015472687603835146
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Ouvriers de la construction et du bÃ¢timent,238,0.0047639064032506655
+Bourgogne-Franche-ComtÃ©,Territoire de Belfort,Ouvriers des secteurs de l'industrie,430,0.008607057787385656
+Bourgogne-Franche-ComtÃ©,Yonne,Autres mÃ©tiers,2746,0.05496507135851398
+Bourgogne-Franche-ComtÃ©,Yonne,Autres techniciens et employÃ©s,379,0.007586220700974799
+Bourgogne-Franche-ComtÃ©,Yonne,Fonctions administratives,313,0.006265137412678396
+Bourgogne-Franche-ComtÃ©,Yonne,Fonctions d'encadrement,711,0.014231669969374888
+"Bourgogne-Franche-ComtÃ©,Yonne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3349,0.06703496867431294"
+Bourgogne-Franche-ComtÃ©,Yonne,Fonctions sociales et mÃ©dico-sociales,1374,0.02750255209271603
+Bourgogne-Franche-ComtÃ©,Yonne,Ouvriers de la construction et du bÃ¢timent,585,0.0117096018735363
+Bourgogne-Franche-ComtÃ©,Yonne,Ouvriers des secteurs de l'industrie,862,0.017254148401689387
+Bretagne,CÃ´tes-d'Armor,Autres mÃ©tiers,4581,0.0916951900558458
+Bretagne,CÃ´tes-d'Armor,Autres techniciens et employÃ©s,239,0.004783922816709702
+Bretagne,CÃ´tes-d'Armor,Fonctions administratives,883,0.01767449308432915
+Bretagne,CÃ´tes-d'Armor,Fonctions d'encadrement,1072,0.02145759522808703
+"Bretagne,CÃ´tes-d'Armor,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",8224,0.16461498428711543"
+Bretagne,CÃ´tes-d'Armor,Fonctions sociales et mÃ©dico-sociales,2108,0.042194599571648755
+Bretagne,CÃ´tes-d'Armor,Ouvriers de la construction et du bÃ¢timent,1504,0.03010468584239076
+Bretagne,CÃ´tes-d'Armor,Ouvriers des secteurs de l'industrie,2336,0.04675834184030905
+Bretagne,FinistÃ¨re,Autres mÃ©tiers,6302,0.12614343761884744
+Bretagne,FinistÃ¨re,Autres techniciens et employÃ©s,663,0.01327088212334114
+Bretagne,FinistÃ¨re,Fonctions administratives,1257,0.025160631718008766
+Bretagne,FinistÃ¨re,Fonctions d'encadrement,2550,0.05104185432054285
+"Bretagne,FinistÃ¨re,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",14381,0.2878560419544026"
+Bretagne,FinistÃ¨re,Fonctions sociales et mÃ©dico-sociales,4149,0.08304809944154207
+Bretagne,FinistÃ¨re,Ouvriers de la construction et du bÃ¢timent,2024,0.040513220841089694
+Bretagne,FinistÃ¨re,Ouvriers des secteurs de l'industrie,3158,0.06321183370363698
+Bretagne,Ille-et-Vilaine,Autres mÃ©tiers,5636,0.1128125062551292
+Bretagne,Ille-et-Vilaine,Autres techniciens et employÃ©s,1061,0.02123741468003763
+Bretagne,Ille-et-Vilaine,Fonctions administratives,2434,0.04871995035929462
+Bretagne,Ille-et-Vilaine,Fonctions d'encadrement,4260,0.0852699213354951
+"Bretagne,Ille-et-Vilaine,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15803,0.3163193818931524"
+Bretagne,Ille-et-Vilaine,Fonctions sociales et mÃ©dico-sociales,5854,0.11717608438919914
+Bretagne,Ille-et-Vilaine,Ouvriers de la construction et du bÃ¢timent,2361,0.04725875217678496
+Bretagne,Ille-et-Vilaine,Ouvriers des secteurs de l'industrie,4481,0.08969354870994216
+Bretagne,Morbihan,Autres mÃ©tiers,3645,0.07295982705818771
+Bretagne,Morbihan,Autres techniciens et employÃ©s,552,0.011049060229388098
+Bretagne,Morbihan,Fonctions administratives,1281,0.02564102564102564
+Bretagne,Morbihan,Fonctions d'encadrement,2091,0.04185432054284513
+"Bretagne,Morbihan,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15257,0.3053904201445185"
+Bretagne,Morbihan,Fonctions sociales et mÃ©dico-sociales,4115,0.08236754138393483
+Bretagne,Morbihan,Ouvriers de la construction et du bÃ¢timent,1919,0.03841149742789087
+Bretagne,Morbihan,Ouvriers des secteurs de l'industrie,3592,0.07189895714485879
+Centre-Val de Loire,Cher,Autres mÃ©tiers,2040,0.040833483456434276
+Centre-Val de Loire,Cher,Autres techniciens et employÃ©s,216,0.0043235453071518645
+Centre-Val de Loire,Cher,Fonctions administratives,161,0.003222642566904862
+Centre-Val de Loire,Cher,Fonctions d'encadrement,511,0.010228387277567606
+"Centre-Val de Loire,Cher,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2057,0.041173762485237894"
+Centre-Val de Loire,Cher,Fonctions sociales et mÃ©dico-sociales,807,0.016153245661442384
+Centre-Val de Loire,Cher,Ouvriers de la construction et du bÃ¢timent,401,0.008026581797073601
+Centre-Val de Loire,Cher,Ouvriers des secteurs de l'industrie,924,0.018495166036149643
+Centre-Val de Loire,Eure-et-Loir,Autres mÃ©tiers,2880,0.05764727076202486
+Centre-Val de Loire,Eure-et-Loir,Autres techniciens et employÃ©s,300,0.006004924037710923
+Centre-Val de Loire,Eure-et-Loir,Fonctions administratives,435,0.00870713985468084
+Centre-Val de Loire,Eure-et-Loir,Fonctions d'encadrement,621,0.012430192758061611
+"Centre-Val de Loire,Eure-et-Loir,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3725,0.07456114013491062"
+Centre-Val de Loire,Eure-et-Loir,Fonctions sociales et mÃ©dico-sociales,1255,0.025120598891090695
+Centre-Val de Loire,Eure-et-Loir,Ouvriers de la construction et du bÃ¢timent,1144,0.022898776997137653
+Centre-Val de Loire,Eure-et-Loir,Ouvriers des secteurs de l'industrie,1799,0.0360095278128065
+Centre-Val de Loire,Indre,Autres mÃ©tiers,1123,0.02247843231449789
+Centre-Val de Loire,Indre,Autres techniciens et employÃ©s,96,0.0019215756920674953
+Centre-Val de Loire,Indre,Fonctions administratives,311,0.0062251045857603235
+Centre-Val de Loire,Indre,Fonctions d'encadrement,431,0.008627074200844694
+"Centre-Val de Loire,Indre,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2010,0.04023299105266318"
+Centre-Val de Loire,Indre,Fonctions sociales et mÃ©dico-sociales,1093,0.021877939910726795
+Centre-Val de Loire,Indre,Ouvriers de la construction et du bÃ¢timent,329,0.006585400028022979
+Centre-Val de Loire,Indre,Ouvriers des secteurs de l'industrie,576,0.011529454152404972
+Centre-Val de Loire,Indre-et-Loire,Autres mÃ©tiers,5133,0.10274425028523389
+Centre-Val de Loire,Indre-et-Loire,Autres techniciens et employÃ©s,509,0.010188354450649533
+Centre-Val de Loire,Indre-et-Loire,Fonctions administratives,1027,0.020556856622430394
+Centre-Val de Loire,Indre-et-Loire,Fonctions d'encadrement,2519,0.05042134550331272
+"Centre-Val de Loire,Indre-et-Loire,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",8937,0.1788866870834084"
+Centre-Val de Loire,Indre-et-Loire,Fonctions sociales et mÃ©dico-sociales,3500,0.07005744710662744
+Centre-Val de Loire,Indre-et-Loire,Ouvriers de la construction et du bÃ¢timent,1222,0.024460057246942495
+Centre-Val de Loire,Indre-et-Loire,Ouvriers des secteurs de l'industrie,1751,0.035048739966772754
+Centre-Val de Loire,Loir-et-Cher,Autres mÃ©tiers,2848,0.057006745531335695
+Centre-Val de Loire,Loir-et-Cher,Autres techniciens et employÃ©s,298,0.00596489121079285
+Centre-Val de Loire,Loir-et-Cher,Fonctions administratives,576,0.011529454152404972
+Centre-Val de Loire,Loir-et-Cher,Fonctions d'encadrement,429,0.00858704137392662
+"Centre-Val de Loire,Loir-et-Cher,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3693,0.07392061490422146"
+Centre-Val de Loire,Loir-et-Cher,Fonctions sociales et mÃ©dico-sociales,1626,0.0325466882843932
+Centre-Val de Loire,Loir-et-Cher,Ouvriers de la construction et du bÃ¢timent,811,0.01623331131527853
+Centre-Val de Loire,Loir-et-Cher,Ouvriers des secteurs de l'industrie,1367,0.027362437198502773
+Centre-Val de Loire,Loiret,Autres mÃ©tiers,3923,0.07852438999979984
+Centre-Val de Loire,Loiret,Autres techniciens et employÃ©s,837,0.016753738065213474
+Centre-Val de Loire,Loiret,Fonctions administratives,1547,0.030965391621129327
+Centre-Val de Loire,Loiret,Fonctions d'encadrement,2229,0.04461658560019216
+"Centre-Val de Loire,Loiret,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",7577,0.15166436477911888"
+Centre-Val de Loire,Loiret,Fonctions sociales et mÃ©dico-sociales,2779,0.05562561300266218
+Centre-Val de Loire,Loiret,Ouvriers de la construction et du bÃ¢timent,1289,0.02580115694869793
+Centre-Val de Loire,Loiret,Ouvriers des secteurs de l'industrie,2843,0.05690666346404051
+Corse,Corse-du-Sud,Autres mÃ©tiers,1113,0.022278268179907523
+Corse,Corse-du-Sud,Autres techniciens et employÃ©s,77,0.0015412638363458036
+Corse,Corse-du-Sud,Fonctions administratives,492,0.009848075421845914
+Corse,Corse-du-Sud,Fonctions d'encadrement,433,0.008667107027762766
+"Corse,Corse-du-Sud,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",7500,0.15012310094277306"
+Corse,Corse-du-Sud,Fonctions sociales et mÃ©dico-sociales,763,0.015272523469244782
+Corse,Corse-du-Sud,Ouvriers de la construction et du bÃ¢timent,749,0.014992293680818272
+Corse,Corse-du-Sud,Ouvriers des secteurs de l'industrie,602,0.012049880902339919
+Corse,Haute-Corse,Autres mÃ©tiers,2824,0.05652635160831882
+Corse,Haute-Corse,Autres techniciens et employÃ©s,108,0.0021617726535759323
+Corse,Haute-Corse,Fonctions administratives,420,0.008406893652795292
+Corse,Haute-Corse,Fonctions d'encadrement,371,0.007426089393302508
+"Corse,Haute-Corse,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6444,0.12898576833003061"
+Corse,Haute-Corse,Fonctions sociales et mÃ©dico-sociales,686,0.013731259632898977
+Corse,Haute-Corse,Ouvriers de la construction et du bÃ¢timent,1057,0.021157349026201484
+Corse,Haute-Corse,Ouvriers des secteurs de l'industrie,488,0.009768009768009768
+Grand Est,Ardennes,Autres mÃ©tiers,942,0.0188554614784123
+Grand Est,Ardennes,Autres techniciens et employÃ©s,72,0.0014411817690506215
+Grand Est,Ardennes,Fonctions administratives,109,0.0021817890670349687
+Grand Est,Ardennes,Fonctions d'encadrement,196,0.003923217037971136
+"Grand Est,Ardennes,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1820,0.03642987249544627"
+Grand Est,Ardennes,Fonctions sociales et mÃ©dico-sociales,840,0.016813787305590584
+Grand Est,Ardennes,Ouvriers de la construction et du bÃ¢timent,363,0.007265958085630217
+Grand Est,Ardennes,Ouvriers des secteurs de l'industrie,472,0.009447747152665185
+Grand Est,Aube,Autres mÃ©tiers,7049,0.14109569847274767
+Grand Est,Aube,Autres techniciens et employÃ©s,197,0.003943233451430173
+Grand Est,Aube,Fonctions administratives,268,0.005364398807021758
+Grand Est,Aube,Fonctions d'encadrement,463,0.009267599431533859
+"Grand Est,Aube,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2555,0.051141936387838025"
+Grand Est,Aube,Fonctions sociales et mÃ©dico-sociales,834,0.016693688824836368
+Grand Est,Aube,Ouvriers de la construction et du bÃ¢timent,397,0.007946516143237456
+Grand Est,Aube,Ouvriers des secteurs de l'industrie,669,0.013390980604095359
+Grand Est,Bas-Rhin,Autres mÃ©tiers,7049,0.14109569847274767
+Grand Est,Bas-Rhin,Autres techniciens et employÃ©s,820,0.016413459036409856
+Grand Est,Bas-Rhin,Fonctions administratives,2168,0.043395584379190937
+Grand Est,Bas-Rhin,Fonctions d'encadrement,3333,0.06671470605896836
+"Grand Est,Bas-Rhin,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",13080,0.2618146880441962"
+Grand Est,Bas-Rhin,Fonctions sociales et mÃ©dico-sociales,4322,0.08651093896995536
+Grand Est,Bas-Rhin,Ouvriers de la construction et du bÃ¢timent,2676,0.053563922416381436
+Grand Est,Bas-Rhin,Ouvriers des secteurs de l'industrie,3547,0.07099821853920214
+Grand Est,Haut-Rhin,Autres mÃ©tiers,4268,0.0854300526431674
+Grand Est,Haut-Rhin,Autres techniciens et employÃ©s,447,0.008947336816189276
+Grand Est,Haut-Rhin,Fonctions administratives,856,0.017134049920935167
+Grand Est,Haut-Rhin,Fonctions d'encadrement,812,0.016253327728737565
+"Grand Est,Haut-Rhin,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",8665,0.1734422226225505"
+Grand Est,Haut-Rhin,Fonctions sociales et mÃ©dico-sociales,2485,0.04974078744570548
+Grand Est,Haut-Rhin,Ouvriers de la construction et du bÃ¢timent,1203,0.024079745391220802
+Grand Est,Haut-Rhin,Ouvriers des secteurs de l'industrie,1633,0.032686803178606456
+Grand Est,Haute-Marne,Autres mÃ©tiers,663,0.01327088212334114
+Grand Est,Haute-Marne,Autres techniciens et employÃ©s,49,0.000980804259492784
+Grand Est,Haute-Marne,Fonctions administratives,122,0.002442002442002442
+Grand Est,Haute-Marne,Fonctions d'encadrement,185,0.003703036489921736
+"Grand Est,Haute-Marne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1502,0.03006465301547269"
+Grand Est,Haute-Marne,Fonctions sociales et mÃ©dico-sociales,555,0.011109109469765208
+Grand Est,Haute-Marne,Ouvriers de la construction et du bÃ¢timent,288,0.005764727076202486
+Grand Est,Haute-Marne,Ouvriers des secteurs de l'industrie,423,0.008466942893172402
+Grand Est,Marne,Autres mÃ©tiers,14187,0.28397285774334957
+Grand Est,Marne,Autres techniciens et employÃ©s,307,0.006145038931924178
+Grand Est,Marne,Fonctions administratives,649,0.01299065233491463
+Grand Est,Marne,Fonctions d'encadrement,849,0.01699393502672191
+"Grand Est,Marne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4782,0.09571848916111211"
+Grand Est,Marne,Fonctions sociales et mÃ©dico-sociales,1625,0.032526671870934165
+Grand Est,Marne,Ouvriers de la construction et du bÃ¢timent,946,0.018935527132248445
+Grand Est,Marne,Ouvriers des secteurs de l'industrie,1938,0.03879180928361256
+Grand Est,Meurthe-et-Moselle,Autres mÃ©tiers,2046,0.040953581937188496
+Grand Est,Meurthe-et-Moselle,Autres techniciens et employÃ©s,621,0.012430192758061611
+Grand Est,Meurthe-et-Moselle,Fonctions administratives,1030,0.020616905862807504
+Grand Est,Meurthe-et-Moselle,Fonctions d'encadrement,1365,0.0273224043715847
+"Grand Est,Meurthe-et-Moselle,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6203,0.12416181268640285"
+Grand Est,Meurthe-et-Moselle,Fonctions sociales et mÃ©dico-sociales,4522,0.09051422166176265
+Grand Est,Meurthe-et-Moselle,Ouvriers de la construction et du bÃ¢timent,1184,0.02369943353549911
+Grand Est,Meurthe-et-Moselle,Ouvriers des secteurs de l'industrie,1540,0.03082527672691607
+Grand Est,Meuse,Autres mÃ©tiers,1191,0.023839548429712365
+Grand Est,Meuse,Autres techniciens et employÃ©s,56,0.001120919153706039
+Grand Est,Meuse,Fonctions administratives,165,0.0033027082207410076
+Grand Est,Meuse,Fonctions d'encadrement,200,0.004003282691807282
+"Grand Est,Meuse,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1027,0.020556856622430394"
+Grand Est,Meuse,Fonctions sociales et mÃ©dico-sociales,697,0.013951440180948379
+Grand Est,Meuse,Ouvriers de la construction et du bÃ¢timent,323,0.00646530154726876
+Grand Est,Meuse,Ouvriers des secteurs de l'industrie,551,0.011029043815929063
+Grand Est,Moselle,Autres mÃ©tiers,3492,0.06989731579895514
+Grand Est,Moselle,Autres techniciens et employÃ©s,704,0.014091555075161633
+Grand Est,Moselle,Fonctions administratives,1415,0.02832322504453652
+Grand Est,Moselle,Fonctions d'encadrement,1528,0.030585079765407634
+"Grand Est,Moselle,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10257,0.20530835284933646"
+Grand Est,Moselle,Fonctions sociales et mÃ©dico-sociales,2455,0.04914029504193439
+Grand Est,Moselle,Ouvriers de la construction et du bÃ¢timent,2711,0.05426449688744771
+Grand Est,Moselle,Ouvriers des secteurs de l'industrie,2751,0.055065153425809164
+Grand Est,Vosges,Autres mÃ©tiers,1083,0.021677775776136433
+Grand Est,Vosges,Autres techniciens et employÃ©s,238,0.0047639064032506655
+Grand Est,Vosges,Fonctions administratives,403,0.008066614623991674
+Grand Est,Vosges,Fonctions d'encadrement,545,0.010908945335174844
+"Grand Est,Vosges,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3515,0.07035769330851298"
+Grand Est,Vosges,Fonctions sociales et mÃ©dico-sociales,1401,0.02804299525611001
+Grand Est,Vosges,Ouvriers de la construction et du bÃ¢timent,683,0.013671210392521869
+Grand Est,Vosges,Ouvriers des secteurs de l'industrie,1311,0.026241518044796734
+Guadeloupe,Guadeloupe,Autres mÃ©tiers,1793,0.03588942933205228
+Guadeloupe,Guadeloupe,Autres techniciens et employÃ©s,286,0.005724694249284413
+Guadeloupe,Guadeloupe,Fonctions administratives,935,0.018715346584199044
+Guadeloupe,Guadeloupe,Fonctions d'encadrement,1176,0.023539302227826818
+"Guadeloupe,Guadeloupe,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",5438,0.10884925639024"
+Guadeloupe,Guadeloupe,Fonctions sociales et mÃ©dico-sociales,1937,0.038771792870153525
+Guadeloupe,Guadeloupe,Ouvriers de la construction et du bÃ¢timent,1722,0.034468263976460696
+Guadeloupe,Guadeloupe,Ouvriers des secteurs de l'industrie,715,0.014311735623211034
+Guyane,Guyane,Autres mÃ©tiers,994,0.019896314978282193
+Guyane,Guyane,Autres techniciens et employÃ©s,189,0.0037831021437578815
+Guyane,Guyane,Fonctions administratives,452,0.009047418883484457
+Guyane,Guyane,Fonctions d'encadrement,469,0.009387697912288077
+"Guyane,Guyane,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1845,0.03693028283192218"
+Guyane,Guyane,Fonctions sociales et mÃ©dico-sociales,1398,0.027982946015732903
+Guyane,Guyane,Ouvriers de la construction et du bÃ¢timent,1273,0.02548089433335335
+Guyane,Guyane,Ouvriers des secteurs de l'industrie,651,0.013030685161832704
+Hauts-de-France,Aisne,Autres mÃ©tiers,5428,0.10864909225564963
+Hauts-de-France,Aisne,Autres techniciens et employÃ©s,208,0.004163413999479573
+Hauts-de-France,Aisne,Fonctions administratives,389,0.007786384835565163
+Hauts-de-France,Aisne,Fonctions d'encadrement,389,0.007786384835565163
+"Hauts-de-France,Aisne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2916,0.058367861646550175"
+Hauts-de-France,Aisne,Fonctions sociales et mÃ©dico-sociales,1342,0.026862026862026864
+Hauts-de-France,Aisne,Ouvriers de la construction et du bÃ¢timent,680,0.013611161152144759
+Hauts-de-France,Aisne,Ouvriers des secteurs de l'industrie,1198,0.02397966332392562
+Hauts-de-France,Nord,Autres mÃ©tiers,9234,0.1848315618807422
+Hauts-de-France,Nord,Autres techniciens et employÃ©s,2255,0.045137012350127105
+Hauts-de-France,Nord,Fonctions administratives,4418,0.08843251466202286
+Hauts-de-France,Nord,Fonctions d'encadrement,10714,0.2144558538001161
+"Hauts-de-France,Nord,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",26431,0.5290538241357914"
+Hauts-de-France,Nord,Fonctions sociales et mÃ©dico-sociales,8454,0.16921875938269382
+Hauts-de-France,Nord,Ouvriers de la construction et du bÃ¢timent,4518,0.0904341560079265
+Hauts-de-France,Nord,Ouvriers des secteurs de l'industrie,6725,0.13461038051201984
+Hauts-de-France,Oise,Autres mÃ©tiers,2751,0.055065153425809164
+Hauts-de-France,Oise,Autres techniciens et employÃ©s,730,0.01461198182509658
+Hauts-de-France,Oise,Fonctions administratives,926,0.018535198863067717
+Hauts-de-France,Oise,Fonctions d'encadrement,1731,0.03464841169759202
+"Hauts-de-France,Oise,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",7528,0.1506835605196261"
+Hauts-de-France,Oise,Fonctions sociales et mÃ©dico-sociales,2061,0.04125382813907404
+Hauts-de-France,Oise,Ouvriers de la construction et du bÃ¢timent,1605,0.03212634360175344
+Hauts-de-France,Oise,Ouvriers des secteurs de l'industrie,2146,0.042955223283092134
+Hauts-de-France,Pas-de-Calais,Autres mÃ©tiers,6000,0.12009848075421846
+Hauts-de-France,Pas-de-Calais,Autres techniciens et employÃ©s,782,0.015652835324966474
+Hauts-de-France,Pas-de-Calais,Fonctions administratives,1233,0.024680237794991892
+Hauts-de-France,Pas-de-Calais,Fonctions d'encadrement,1976,0.039552432995055946
+"Hauts-de-France,Pas-de-Calais,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",14381,0.2878560419544026"
+Hauts-de-France,Pas-de-Calais,Fonctions sociales et mÃ©dico-sociales,4198,0.08402890370103484
+Hauts-de-France,Pas-de-Calais,Ouvriers de la construction et du bÃ¢timent,2831,0.05666646650253208
+Hauts-de-France,Pas-de-Calais,Ouvriers des secteurs de l'industrie,3456,0.06917672491442983
+Hauts-de-France,Somme,Autres mÃ©tiers,3131,0.062671390540243
+Hauts-de-France,Somme,Autres techniciens et employÃ©s,843,0.016873836545967694
+Hauts-de-France,Somme,Fonctions administratives,786,0.01573290097880262
+Hauts-de-France,Somme,Fonctions d'encadrement,544,0.010888928921715807
+"Hauts-de-France,Somme,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",5948,0.11905762725434857"
+Hauts-de-France,Somme,Fonctions sociales et mÃ©dico-sociales,1789,0.03580936367821614
+Hauts-de-France,Somme,Ouvriers de la construction et du bÃ¢timent,1043,0.020877119237774976
+Hauts-de-France,Somme,Ouvriers des secteurs de l'industrie,1812,0.03626974118777398
+La RÃ©union,La RÃ©union,Autres mÃ©tiers,5628,0.11265237494745692
+La RÃ©union,La RÃ©union,Autres techniciens et employÃ©s,358,0.007165876018335035
+La RÃ©union,La RÃ©union,Fonctions administratives,2293,0.04589763606157049
+La RÃ©union,La RÃ©union,Fonctions d'encadrement,1976,0.039552432995055946
+"La RÃ©union,La RÃ©union,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15143,0.30310854901018836"
+La RÃ©union,La RÃ©union,Fonctions sociales et mÃ©dico-sociales,4665,0.09337656878640485
+La RÃ©union,La RÃ©union,Ouvriers de la construction et du bÃ¢timent,2770,0.055445465281530854
+La RÃ©union,La RÃ©union,Ouvriers des secteurs de l'industrie,1838,0.03679016793770892
+Martinique,Martinique,Autres mÃ©tiers,2311,0.046257931503833144
+Martinique,Martinique,Autres techniciens et employÃ©s,188,0.003763085730298845
+Martinique,Martinique,Fonctions administratives,1082,0.021657759362677397
+Martinique,Martinique,Fonctions d'encadrement,936,0.01873536299765808
+"Martinique,Martinique,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4369,0.08745171040253008"
+Martinique,Martinique,Fonctions sociales et mÃ©dico-sociales,1796,0.035949478572429396
+Martinique,Martinique,Ouvriers de la construction et du bÃ¢timent,1633,0.032686803178606456
+Martinique,Martinique,Ouvriers des secteurs de l'industrie,698,0.013971456594407414
+Mayotte,Mayotte,Autres mÃ©tiers,771,0.015432654776917073
+Mayotte,Mayotte,Autres techniciens et employÃ©s,216,0.0043235453071518645
+Mayotte,Mayotte,Fonctions administratives,366,0.007326007326007326
+Mayotte,Mayotte,Fonctions d'encadrement,425,0.008506975720090475
+"Mayotte,Mayotte,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2379,0.047619047619047616"
+Mayotte,Mayotte,Fonctions sociales et mÃ©dico-sociales,767,0.015352589123080927
+Mayotte,Mayotte,Ouvriers de la construction et du bÃ¢timent,584,0.011689585460077263
+Mayotte,Mayotte,Ouvriers des secteurs de l'industrie,224,0.004483676614824156
+Normandie,Calvados,Autres mÃ©tiers,4171,0.08348846053764086
+Normandie,Calvados,Autres techniciens et employÃ©s,402,0.008046598210532637
+Normandie,Calvados,Fonctions administratives,1419,0.028403290698372666
+Normandie,Calvados,Fonctions d'encadrement,2608,0.05220280630116696
+"Normandie,Calvados,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",14789,0.29602273864568945"
+Normandie,Calvados,Fonctions sociales et mÃ©dico-sociales,4053,0.08112652374947457
+Normandie,Calvados,Ouvriers de la construction et du bÃ¢timent,1446,0.02894373386176665
+Normandie,Calvados,Ouvriers des secteurs de l'industrie,2770,0.055445465281530854
+Normandie,Eure,Autres mÃ©tiers,2153,0.04309533817730539
+Normandie,Eure,Autres techniciens et employÃ©s,240,0.004803939230168738
+Normandie,Eure,Fonctions administratives,606,0.012129946556176064
+Normandie,Eure,Fonctions d'encadrement,1087,0.02175784142997258
+"Normandie,Eure,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4669,0.093456634440241"
+Normandie,Eure,Fonctions sociales et mÃ©dico-sociales,2165,0.04333553513881383
+Normandie,Eure,Ouvriers de la construction et du bÃ¢timent,1070,0.02141756240116896
+Normandie,Eure,Ouvriers des secteurs de l'industrie,1885,0.037730939370283635
+Normandie,Manche,Autres mÃ©tiers,2905,0.05814768109850077
+Normandie,Manche,Autres techniciens et employÃ©s,347,0.006945695470285634
+Normandie,Manche,Fonctions administratives,933,0.01867531375728097
+Normandie,Manche,Fonctions d'encadrement,1237,0.024760303448828038
+"Normandie,Manche,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",7526,0.15064352769270803"
+Normandie,Manche,Fonctions sociales et mÃ©dico-sociales,2250,0.04503693028283192
+Normandie,Manche,Ouvriers de la construction et du bÃ¢timent,1385,0.027722732640765427
+Normandie,Manche,Ouvriers des secteurs de l'industrie,2642,0.05288336435877419
+Normandie,Orne,Autres mÃ©tiers,1245,0.02492043475650033
+Normandie,Orne,Autres techniciens et employÃ©s,125,0.0025020516823795512
+Normandie,Orne,Fonctions administratives,313,0.006265137412678396
+Normandie,Orne,Fonctions d'encadrement,330,0.006605416441482015
+"Normandie,Orne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2252,0.04507696310975"
+Normandie,Orne,Fonctions sociales et mÃ©dico-sociales,1220,0.02442002442002442
+Normandie,Orne,Ouvriers de la construction et du bÃ¢timent,717,0.014351768450129107
+Normandie,Orne,Ouvriers des secteurs de l'industrie,1652,0.03306711503432815
+Normandie,Seine-Maritime,Autres mÃ©tiers,4828,0.09663924418022779
+Normandie,Seine-Maritime,Autres techniciens et employÃ©s,863,0.017274164815148423
+Normandie,Seine-Maritime,Fonctions administratives,2085,0.04173422206209092
+Normandie,Seine-Maritime,Fonctions d'encadrement,4117,0.0824075742108529
+"Normandie,Seine-Maritime,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",13431,0.268840449168318"
+Normandie,Seine-Maritime,Fonctions sociales et mÃ©dico-sociales,4877,0.09762004843972057
+Normandie,Seine-Maritime,Ouvriers de la construction et du bÃ¢timent,2726,0.054564743089333255
+Normandie,Seine-Maritime,Ouvriers des secteurs de l'industrie,4136,0.0827878860665746
+Nouvelle-Aquitaine,Charente,Autres mÃ©tiers,3441,0.06887647871254429
+Nouvelle-Aquitaine,Charente,Autres techniciens et employÃ©s,141,0.002822314297724134
+Nouvelle-Aquitaine,Charente,Fonctions administratives,512,0.010248403691026642
+Nouvelle-Aquitaine,Charente,Fonctions d'encadrement,795,0.015913048699933947
+"Nouvelle-Aquitaine,Charente,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4095,0.08196721311475409"
+Nouvelle-Aquitaine,Charente,Fonctions sociales et mÃ©dico-sociales,1685,0.03372765667847635
+Nouvelle-Aquitaine,Charente,Ouvriers de la construction et du bÃ¢timent,641,0.01283052102724234
+Nouvelle-Aquitaine,Charente,Ouvriers des secteurs de l'industrie,1263,0.025280730198762986
+Nouvelle-Aquitaine,Charente-Maritime,Autres mÃ©tiers,9104,0.1822294281310675
+Nouvelle-Aquitaine,Charente-Maritime,Autres techniciens et employÃ©s,310,0.006205088172301287
+Nouvelle-Aquitaine,Charente-Maritime,Fonctions administratives,1194,0.023899597670089475
+Nouvelle-Aquitaine,Charente-Maritime,Fonctions d'encadrement,1468,0.02938409495786545
+"Nouvelle-Aquitaine,Charente-Maritime,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15542,0.3110950979803439"
+Nouvelle-Aquitaine,Charente-Maritime,Fonctions sociales et mÃ©dico-sociales,4176,0.08358854260493605
+Nouvelle-Aquitaine,Charente-Maritime,Ouvriers de la construction et du bÃ¢timent,1659,0.0332072299285414
+Nouvelle-Aquitaine,Charente-Maritime,Ouvriers des secteurs de l'industrie,2375,0.047538981965211474
+Nouvelle-Aquitaine,CorrÃ¨ze,Autres mÃ©tiers,2238,0.04479673332132349
+Nouvelle-Aquitaine,CorrÃ¨ze,Autres techniciens et employÃ©s,106,0.0021217398266578594
+Nouvelle-Aquitaine,CorrÃ¨ze,Fonctions administratives,438,0.008767189095057948
+Nouvelle-Aquitaine,CorrÃ¨ze,Fonctions d'encadrement,482,0.00964791128725555
+"Nouvelle-Aquitaine,CorrÃ¨ze,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3375,0.06755539542424788"
+Nouvelle-Aquitaine,CorrÃ¨ze,Fonctions sociales et mÃ©dico-sociales,1270,0.025420845092976242
+Nouvelle-Aquitaine,CorrÃ¨ze,Ouvriers de la construction et du bÃ¢timent,559,0.011189175123601354
+Nouvelle-Aquitaine,CorrÃ¨ze,Ouvriers des secteurs de l'industrie,600,0.012009848075421846
+Nouvelle-Aquitaine,Creuse,Autres mÃ©tiers,634,0.012690406133029084
+Nouvelle-Aquitaine,Creuse,Autres techniciens et employÃ©s,14,0.00028022978842650974
+Nouvelle-Aquitaine,Creuse,Fonctions administratives,250,0.0050041033647591025
+Nouvelle-Aquitaine,Creuse,Fonctions d'encadrement,238,0.0047639064032506655
+"Nouvelle-Aquitaine,Creuse,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",975,0.0195160031225605"
+Nouvelle-Aquitaine,Creuse,Fonctions sociales et mÃ©dico-sociales,537,0.010748814027502553
+Nouvelle-Aquitaine,Creuse,Ouvriers de la construction et du bÃ¢timent,222,0.004443643787906083
+Nouvelle-Aquitaine,Creuse,Ouvriers des secteurs de l'industrie,176,0.003522888768790408
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Autres mÃ©tiers,4440,0.08887287575812167
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Autres techniciens et employÃ©s,207,0.004143397586020537
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Fonctions administratives,585,0.0117096018735363
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Fonctions d'encadrement,958,0.019175724093756882
+"Nouvelle-Aquitaine,Deux-SÃ¨vres,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3857,0.07720330671150344"
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Fonctions sociales et mÃ©dico-sociales,1269,0.025400828679517203
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Ouvriers de la construction et du bÃ¢timent,836,0.01673372165175444
+Nouvelle-Aquitaine,Deux-SÃ¨vres,Ouvriers des secteurs de l'industrie,1859,0.03721051262034868
+Nouvelle-Aquitaine,Dordogne,Autres mÃ©tiers,3763,0.07532176384635401
+Nouvelle-Aquitaine,Dordogne,Autres techniciens et employÃ©s,131,0.0026221501631337697
+Nouvelle-Aquitaine,Dordogne,Fonctions administratives,703,0.014071538661702597
+Nouvelle-Aquitaine,Dordogne,Fonctions d'encadrement,862,0.017254148401689387
+"Nouvelle-Aquitaine,Dordogne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",8188,0.16389439340259013"
+Nouvelle-Aquitaine,Dordogne,Fonctions sociales et mÃ©dico-sociales,1984,0.03971256430272824
+Nouvelle-Aquitaine,Dordogne,Ouvriers de la construction et du bÃ¢timent,884,0.017694509497788186
+Nouvelle-Aquitaine,Dordogne,Ouvriers des secteurs de l'industrie,1470,0.029424127784783524
+Nouvelle-Aquitaine,Gironde,Autres mÃ©tiers,18342,0.3671410556656458
+Nouvelle-Aquitaine,Gironde,Autres techniciens et employÃ©s,1425,0.028523389179126883
+Nouvelle-Aquitaine,Gironde,Fonctions administratives,3562,0.0712984647410877
+Nouvelle-Aquitaine,Gironde,Fonctions d'encadrement,6611,0.1323285093776897
+"Nouvelle-Aquitaine,Gironde,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",26647,0.5333773694429432"
+Nouvelle-Aquitaine,Gironde,Fonctions sociales et mÃ©dico-sociales,7920,0.15852999459556838
+Nouvelle-Aquitaine,Gironde,Ouvriers de la construction et du bÃ¢timent,4118,0.08242759062431193
+Nouvelle-Aquitaine,Gironde,Ouvriers des secteurs de l'industrie,4259,0.08524990492203607
+Nouvelle-Aquitaine,Haute-Vienne,Autres mÃ©tiers,1596,0.031946195880622114
+Nouvelle-Aquitaine,Haute-Vienne,Autres techniciens et employÃ©s,206,0.0041233811725615
+Nouvelle-Aquitaine,Haute-Vienne,Fonctions administratives,711,0.014231669969374888
+Nouvelle-Aquitaine,Haute-Vienne,Fonctions d'encadrement,867,0.017354230468984568
+"Nouvelle-Aquitaine,Haute-Vienne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3751,0.07508156688484557"
+Nouvelle-Aquitaine,Haute-Vienne,Fonctions sociales et mÃ©dico-sociales,2297,0.04597770171540663
+Nouvelle-Aquitaine,Haute-Vienne,Ouvriers de la construction et du bÃ¢timent,685,0.013711243219439942
+Nouvelle-Aquitaine,Haute-Vienne,Ouvriers des secteurs de l'industrie,981,0.019636101603314717
+Nouvelle-Aquitaine,Landes,Autres mÃ©tiers,7425,0.14862186993334534
+Nouvelle-Aquitaine,Landes,Autres techniciens et employÃ©s,235,0.004703857162873556
+Nouvelle-Aquitaine,Landes,Fonctions administratives,706,0.014131587902079705
+Nouvelle-Aquitaine,Landes,Fonctions d'encadrement,650,0.013010668748373666
+"Nouvelle-Aquitaine,Landes,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10588,0.2119337857042775"
+Nouvelle-Aquitaine,Landes,Fonctions sociales et mÃ©dico-sociales,2053,0.04109369683140175
+Nouvelle-Aquitaine,Landes,Ouvriers de la construction et du bÃ¢timent,869,0.01739426329590264
+Nouvelle-Aquitaine,Landes,Ouvriers des secteurs de l'industrie,2797,0.05598590844492484
+Nouvelle-Aquitaine,Lot-et-Garonne,Autres mÃ©tiers,8334,0.16681678976760944
+Nouvelle-Aquitaine,Lot-et-Garonne,Autres techniciens et employÃ©s,206,0.0041233811725615
+Nouvelle-Aquitaine,Lot-et-Garonne,Fonctions administratives,416,0.008326827998959146
+Nouvelle-Aquitaine,Lot-et-Garonne,Fonctions d'encadrement,613,0.01227006145038932
+"Nouvelle-Aquitaine,Lot-et-Garonne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3774,0.07554194439440341"
+Nouvelle-Aquitaine,Lot-et-Garonne,Fonctions sociales et mÃ©dico-sociales,1231,0.02464020496807382
+Nouvelle-Aquitaine,Lot-et-Garonne,Ouvriers de la construction et du bÃ¢timent,787,0.015752917392261655
+Nouvelle-Aquitaine,Lot-et-Garonne,Ouvriers des secteurs de l'industrie,1589,0.03180608098640886
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Autres mÃ©tiers,5053,0.10114293720851097
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Autres techniciens et employÃ©s,370,0.007406072979843472
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Fonctions administratives,1438,0.02878360255409436
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Fonctions d'encadrement,2014,0.04031305670649933
+"Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",13578,0.27178286194679635"
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Fonctions sociales et mÃ©dico-sociales,4794,0.09595868612262055
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Ouvriers de la construction et du bÃ¢timent,1525,0.030525030525030524
+Nouvelle-Aquitaine,PyrÃ©nÃ©es-Atlantiques,Ouvriers des secteurs de l'industrie,2328,0.04659821053263676
+Nouvelle-Aquitaine,Vienne,Autres mÃ©tiers,2518,0.05040132908985368
+Nouvelle-Aquitaine,Vienne,Autres techniciens et employÃ©s,424,0.008486959306631438
+Nouvelle-Aquitaine,Vienne,Fonctions administratives,647,0.012950619507996558
+Nouvelle-Aquitaine,Vienne,Fonctions d'encadrement,1479,0.02960427550591485
+"Nouvelle-Aquitaine,Vienne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6887,0.13785303949238376"
+Nouvelle-Aquitaine,Vienne,Fonctions sociales et mÃ©dico-sociales,2188,0.04379591264837167
+Nouvelle-Aquitaine,Vienne,Ouvriers de la construction et du bÃ¢timent,828,0.016573590344082147
+Nouvelle-Aquitaine,Vienne,Ouvriers des secteurs de l'industrie,1374,0.02750255209271603
+Occitanie,AriÃ¨ge,Autres mÃ©tiers,1825,0.03652995456274145
+Occitanie,AriÃ¨ge,Autres techniciens et employÃ©s,64,0.0012810504613783302
+Occitanie,AriÃ¨ge,Fonctions administratives,246,0.004924037710922957
+Occitanie,AriÃ¨ge,Fonctions d'encadrement,221,0.004423627374447047
+"Occitanie,AriÃ¨ge,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1949,0.039011989831661965"
+Occitanie,AriÃ¨ge,Fonctions sociales et mÃ©dico-sociales,460,0.009207550191156749
+Occitanie,AriÃ¨ge,Ouvriers de la construction et du bÃ¢timent,203,0.004063331932184391
+Occitanie,AriÃ¨ge,Ouvriers des secteurs de l'industrie,396,0.007926499729778418
+Occitanie,Aude,Autres mÃ©tiers,3747,0.07500150123100943
+Occitanie,Aude,Autres techniciens et employÃ©s,63,0.0012610340479192938
+Occitanie,Aude,Fonctions administratives,455,0.009107468123861567
+Occitanie,Aude,Fonctions d'encadrement,438,0.008767189095057948
+"Occitanie,Aude,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6780,0.13571128325226686"
+Occitanie,Aude,Fonctions sociales et mÃ©dico-sociales,1416,0.028343241457995556
+Occitanie,Aude,Ouvriers de la construction et du bÃ¢timent,501,0.010028223142977242
+Occitanie,Aude,Ouvriers des secteurs de l'industrie,828,0.016573590344082147
+Occitanie,Aveyron,Autres mÃ©tiers,1262,0.02526071378530395
+Occitanie,Aveyron,Autres techniciens et employÃ©s,103,0.00206169058628075
+Occitanie,Aveyron,Fonctions administratives,412,0.008246762345123
+Occitanie,Aveyron,Fonctions d'encadrement,418,0.00836686082587722
+"Occitanie,Aveyron,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3792,0.07590223983666607"
+Occitanie,Aveyron,Fonctions sociales et mÃ©dico-sociales,1185,0.023719449948958145
+Occitanie,Aveyron,Ouvriers de la construction et du bÃ¢timent,450,0.009007386056566384
+Occitanie,Aveyron,Ouvriers des secteurs de l'industrie,835,0.016713705238295403
+Occitanie,Gard,Autres mÃ©tiers,5925,0.11859724974479073
+Occitanie,Gard,Autres techniciens et employÃ©s,477,0.009547829219960368
+Occitanie,Gard,Fonctions administratives,1007,0.020156528353249666
+Occitanie,Gard,Fonctions d'encadrement,2083,0.04169418923517284
+"Occitanie,Gard,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10688,0.21393542705018115"
+Occitanie,Gard,Fonctions sociales et mÃ©dico-sociales,1738,0.03478852659180528
+Occitanie,Gard,Ouvriers de la construction et du bÃ¢timent,1554,0.031105506515342583
+Occitanie,Gard,Ouvriers des secteurs de l'industrie,2417,0.048379671330491
+Occitanie,Gers,Autres mÃ©tiers,2919,0.05842791088692728
+Occitanie,Gers,Autres techniciens et employÃ©s,183,0.003663003663003663
+Occitanie,Gers,Fonctions administratives,249,0.004984086951300066
+Occitanie,Gers,Fonctions d'encadrement,328,0.006565383614563942
+"Occitanie,Gers,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1665,0.03332732840929562"
+Occitanie,Gers,Fonctions sociales et mÃ©dico-sociales,762,0.015252507055785744
+Occitanie,Gers,Ouvriers de la construction et du bÃ¢timent,306,0.006125022518465141
+Occitanie,Gers,Ouvriers des secteurs de l'industrie,911,0.01823495266118217
+Occitanie,Haute-Garonne,Autres mÃ©tiers,5265,0.1053864168618267
+Occitanie,Haute-Garonne,Autres techniciens et employÃ©s,1734,0.034708460937969136
+Occitanie,Haute-Garonne,Fonctions administratives,3763,0.07532176384635401
+Occitanie,Haute-Garonne,Fonctions d'encadrement,7044,0.14099561640545247
+"Occitanie,Haute-Garonne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",19134,0.3829940551252027"
+Occitanie,Haute-Garonne,Fonctions sociales et mÃ©dico-sociales,6465,0.12940611301267038
+Occitanie,Haute-Garonne,Ouvriers de la construction et du bÃ¢timent,3076,0.061570487799996
+Occitanie,Haute-Garonne,Ouvriers des secteurs de l'industrie,4050,0.08106647450909746
+Occitanie,Hautes-PyrÃ©nÃ©es,Autres mÃ©tiers,1048,0.020977201305070158
+Occitanie,Hautes-PyrÃ©nÃ©es,Autres techniciens et employÃ©s,98,0.001961608518985568
+Occitanie,Hautes-PyrÃ©nÃ©es,Fonctions administratives,407,0.00814668027782782
+Occitanie,Hautes-PyrÃ©nÃ©es,Fonctions d'encadrement,369,0.007386056566384435
+"Occitanie,Hautes-PyrÃ©nÃ©es,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4445,0.08897295782541684"
+Occitanie,Hautes-PyrÃ©nÃ©es,Fonctions sociales et mÃ©dico-sociales,1289,0.02580115694869793
+Occitanie,Hautes-PyrÃ©nÃ©es,Ouvriers de la construction et du bÃ¢timent,767,0.015352589123080927
+Occitanie,Hautes-PyrÃ©nÃ©es,Ouvriers des secteurs de l'industrie,710,0.014211653555915851
+Occitanie,HÃ©rault,Autres mÃ©tiers,6145,0.12300086070577874
+Occitanie,HÃ©rault,Autres techniciens et employÃ©s,861,0.017234131988230348
+Occitanie,HÃ©rault,Fonctions administratives,2426,0.04855981905162233
+Occitanie,HÃ©rault,Fonctions d'encadrement,5148,0.10304449648711944
+"Occitanie,HÃ©rault,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",18721,0.3747272763666206"
+Occitanie,HÃ©rault,Fonctions sociales et mÃ©dico-sociales,4431,0.08869272803699033
+Occitanie,HÃ©rault,Ouvriers de la construction et du bÃ¢timent,2145,0.0429352068696331
+Occitanie,HÃ©rault,Ouvriers des secteurs de l'industrie,2310,0.04623791509037411
+Occitanie,Lot,Autres mÃ©tiers,1438,0.02878360255409436
+Occitanie,Lot,Autres techniciens et employÃ©s,80,0.0016013130767229128
+Occitanie,Lot,Fonctions administratives,356,0.007125843191416962
+Occitanie,Lot,Fonctions d'encadrement,486,0.009727976941091695
+"Occitanie,Lot,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2992,0.05988910906943694"
+Occitanie,Lot,Fonctions sociales et mÃ©dico-sociales,646,0.01293060309453752
+Occitanie,Lot,Ouvriers de la construction et du bÃ¢timent,484,0.009687944114173622
+Occitanie,Lot,Ouvriers des secteurs de l'industrie,526,0.010528633479453152
+Occitanie,LozÃ¨re,Autres mÃ©tiers,498,0.009968173902600132
+Occitanie,LozÃ¨re,Autres techniciens et employÃ©s,24,0.00048039392301687384
+Occitanie,LozÃ¨re,Fonctions administratives,130,0.0026021337496747333
+Occitanie,LozÃ¨re,Fonctions d'encadrement,196,0.003923217037971136
+"Occitanie,LozÃ¨re,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",1645,0.0329270001401149"
+Occitanie,LozÃ¨re,Fonctions sociales et mÃ©dico-sociales,547,0.010948978162092917
+Occitanie,LozÃ¨re,Ouvriers de la construction et du bÃ¢timent,118,0.0023619367881662964
+Occitanie,LozÃ¨re,Ouvriers des secteurs de l'industrie,185,0.003703036489921736
+Occitanie,PyrÃ©nÃ©es-Orientales,Autres mÃ©tiers,4978,0.09964170619908325
+Occitanie,PyrÃ©nÃ©es-Orientales,Autres techniciens et employÃ©s,122,0.002442002442002442
+Occitanie,PyrÃ©nÃ©es-Orientales,Fonctions administratives,1296,0.025941271842911187
+Occitanie,PyrÃ©nÃ©es-Orientales,Fonctions d'encadrement,1459,0.029203947236734123
+"Occitanie,PyrÃ©nÃ©es-Orientales,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",8976,0.17966732720831083"
+Occitanie,PyrÃ©nÃ©es-Orientales,Fonctions sociales et mÃ©dico-sociales,2273,0.04549730779238976
+Occitanie,PyrÃ©nÃ©es-Orientales,Ouvriers de la construction et du bÃ¢timent,578,0.011569486979323045
+Occitanie,PyrÃ©nÃ©es-Orientales,Ouvriers des secteurs de l'industrie,1179,0.023599351468203928
+Occitanie,Tarn,Autres mÃ©tiers,2210,0.044236273744470464
+Occitanie,Tarn,Autres techniciens et employÃ©s,91,0.0018214936247723133
+Occitanie,Tarn,Fonctions administratives,378,0.007566204287515763
+Occitanie,Tarn,Fonctions d'encadrement,646,0.01293060309453752
+"Occitanie,Tarn,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3590,0.0718589243179407"
+Occitanie,Tarn,Fonctions sociales et mÃ©dico-sociales,1630,0.03262675393822935
+Occitanie,Tarn,Ouvriers de la construction et du bÃ¢timent,649,0.01299065233491463
+Occitanie,Tarn,Ouvriers des secteurs de l'industrie,1063,0.021277447506955705
+Occitanie,Tarn-et-Garonne,Autres mÃ©tiers,4581,0.0916951900558458
+Occitanie,Tarn-et-Garonne,Autres techniciens et employÃ©s,130,0.0026021337496747333
+Occitanie,Tarn-et-Garonne,Fonctions administratives,328,0.006565383614563942
+Occitanie,Tarn-et-Garonne,Fonctions d'encadrement,414,0.008286795172041074
+"Occitanie,Tarn-et-Garonne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",2335,0.04673832542685002"
+Occitanie,Tarn-et-Garonne,Fonctions sociales et mÃ©dico-sociales,1094,0.021897956324185834
+Occitanie,Tarn-et-Garonne,Ouvriers de la construction et du bÃ¢timent,513,0.010268420104485679
+Occitanie,Tarn-et-Garonne,Ouvriers des secteurs de l'industrie,619,0.012390159931143539
+Pays de la Loire,Loire-Atlantique,Autres mÃ©tiers,10852,0.21721811885746312
+Pays de la Loire,Loire-Atlantique,Autres techniciens et employÃ©s,1446,0.02894373386176665
+Pays de la Loire,Loire-Atlantique,Fonctions administratives,3984,0.07974539122080106
+Pays de la Loire,Loire-Atlantique,Fonctions d'encadrement,6672,0.13354951059869094
+"Pays de la Loire,Loire-Atlantique,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",22833,0.4570347685101783"
+Pays de la Loire,Loire-Atlantique,Fonctions sociales et mÃ©dico-sociales,7130,0.1427170279629296
+Pays de la Loire,Loire-Atlantique,Ouvriers de la construction et du bÃ¢timent,3536,0.07077803799115275
+Pays de la Loire,Loire-Atlantique,Ouvriers des secteurs de l'industrie,5834,0.11677575612001842
+Pays de la Loire,Maine-et-Loire,Autres mÃ©tiers,12649,0.25318761384335153
+Pays de la Loire,Maine-et-Loire,Autres techniciens et employÃ©s,655,0.01311075081566885
+Pays de la Loire,Maine-et-Loire,Fonctions administratives,1315,0.02632158369863288
+Pays de la Loire,Maine-et-Loire,Fonctions d'encadrement,2420,0.048439720570868115
+"Pays de la Loire,Maine-et-Loire,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10153,0.20322664584959668"
+Pays de la Loire,Maine-et-Loire,Fonctions sociales et mÃ©dico-sociales,4776,0.0955983906803579
+Pays de la Loire,Maine-et-Loire,Ouvriers de la construction et du bÃ¢timent,1716,0.03434816549570648
+Pays de la Loire,Maine-et-Loire,Ouvriers des secteurs de l'industrie,5002,0.10012210012210013
+Pays de la Loire,Mayenne,Autres mÃ©tiers,2221,0.04445645429251987
+Pays de la Loire,Mayenne,Autres techniciens et employÃ©s,165,0.0033027082207410076
+Pays de la Loire,Mayenne,Fonctions administratives,588,0.011769651113913409
+Pays de la Loire,Mayenne,Fonctions d'encadrement,537,0.010748814027502553
+"Pays de la Loire,Mayenne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3784,0.07574210852899378"
+Pays de la Loire,Mayenne,Fonctions sociales et mÃ©dico-sociales,1336,0.026741928381272644
+Pays de la Loire,Mayenne,Ouvriers de la construction et du bÃ¢timent,635,0.012710422546488121
+Pays de la Loire,Mayenne,Ouvriers des secteurs de l'industrie,2132,0.04267499349466563
+Pays de la Loire,Sarthe,Autres mÃ©tiers,3072,0.06149042214615985
+Pays de la Loire,Sarthe,Autres techniciens et employÃ©s,318,0.006365219479973578
+Pays de la Loire,Sarthe,Fonctions administratives,1055,0.021117316199283413
+Pays de la Loire,Sarthe,Fonctions d'encadrement,1300,0.026021337496747333
+"Pays de la Loire,Sarthe,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",6215,0.12440200964791129"
+Pays de la Loire,Sarthe,Fonctions sociales et mÃ©dico-sociales,2169,0.04341560079264997
+Pays de la Loire,Sarthe,Ouvriers de la construction et du bÃ¢timent,1084,0.021697792189595468
+Pays de la Loire,Sarthe,Ouvriers des secteurs de l'industrie,3224,0.06453291699193339
+Pays de la Loire,VendÃ©e,Autres mÃ©tiers,5664,0.11337296583198223
+Pays de la Loire,VendÃ©e,Autres techniciens et employÃ©s,553,0.011069076642847136
+Pays de la Loire,VendÃ©e,Fonctions administratives,1220,0.02442002442002442
+Pays de la Loire,VendÃ©e,Fonctions d'encadrement,1633,0.032686803178606456
+"Pays de la Loire,VendÃ©e,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",15701,0.31427770772033065"
+Pays de la Loire,VendÃ©e,Fonctions sociales et mÃ©dico-sociales,3863,0.07732340519225765
+Pays de la Loire,VendÃ©e,Ouvriers de la construction et du bÃ¢timent,1899,0.03801116915871014
+Pays de la Loire,VendÃ©e,Ouvriers des secteurs de l'industrie,5157,0.10322464420825077
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Autres mÃ©tiers,4084,0.0817470325667047
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Autres techniciens et employÃ©s,679,0.013591144738685723
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Fonctions administratives,3203,0.06411257230929363
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Fonctions d'encadrement,5381,0.10770832082307492
+"Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",27134,0.5431253627974939"
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Fonctions sociales et mÃ©dico-sociales,6027,0.12063892391761244
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Ouvriers de la construction et du bÃ¢timent,2960,0.05924858383874777
+Provence-Alpes-CÃ´te d'Azur,Alpes-Maritimes,Ouvriers des secteurs de l'industrie,2230,0.044636602013651196
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Autres mÃ©tiers,2029,0.04061330290838488
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Autres techniciens et employÃ©s,56,0.001120919153706039
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Fonctions administratives,465,0.009307632258451931
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Fonctions d'encadrement,335,0.006705498508777197
+"Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",3596,0.07197902279869493"
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Fonctions sociales et mÃ©dico-sociales,788,0.01577293380572069
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Ouvriers de la construction et du bÃ¢timent,478,0.009567845633419404
+Provence-Alpes-CÃ´te d'Azur,Alpes-de-Haute-Provence,Ouvriers des secteurs de l'industrie,269,0.005384415220480794
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Autres mÃ©tiers,11858,0.23735463079725375
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Autres techniciens et employÃ©s,2018,0.04039312236033547
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Fonctions administratives,4467,0.08941331892151565
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Fonctions d'encadrement,9910,0.19836265737905082
+"Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",29955,0.5995916651654356"
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Fonctions sociales et mÃ©dico-sociales,9558,0.19131687984147
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Ouvriers de la construction et du bÃ¢timent,4143,0.08292800096078784
+Provence-Alpes-CÃ´te d'Azur,Bouches-du-RhÃ´ne,Ouvriers des secteurs de l'industrie,5031,0.10070257611241218
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Autres mÃ©tiers,1386,0.027742749054224466
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Autres techniciens et employÃ©s,72,0.0014411817690506215
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Fonctions administratives,329,0.006585400028022979
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Fonctions d'encadrement,586,0.011729618286995336
+"Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",4162,0.08330831281650954"
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Fonctions sociales et mÃ©dico-sociales,1649,0.03300706579395104
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Ouvriers de la construction et du bÃ¢timent,638,0.01277047178686523
+Provence-Alpes-CÃ´te d'Azur,Hautes-Alpes,Ouvriers des secteurs de l'industrie,270,0.005404431633939831
+Provence-Alpes-CÃ´te d'Azur,Var,Autres mÃ©tiers,6369,0.1274845373206029
+Provence-Alpes-CÃ´te d'Azur,Var,Autres techniciens et employÃ©s,622,0.012450209171520647
+Provence-Alpes-CÃ´te d'Azur,Var,Fonctions administratives,1358,0.027182289477371446
+Provence-Alpes-CÃ´te d'Azur,Var,Fonctions d'encadrement,2872,0.05748713945435257
+"Provence-Alpes-CÃ´te d'Azur,Var,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",24518,0.4907624251886547"
+Provence-Alpes-CÃ´te d'Azur,Var,Fonctions sociales et mÃ©dico-sociales,4635,0.09277607638263376
+Provence-Alpes-CÃ´te d'Azur,Var,Ouvriers de la construction et du bÃ¢timent,2628,0.05260313457034769
+Provence-Alpes-CÃ´te d'Azur,Var,Ouvriers des secteurs de l'industrie,1889,0.03781100502411978
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Autres mÃ©tiers,10142,0.20300646530154726
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Autres techniciens et employÃ©s,321,0.0064252687203506876
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Fonctions administratives,1099,0.021998038391481015
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Fonctions d'encadrement,2000,0.04003282691807282
+"Provence-Alpes-CÃ´te d'Azur,Vaucluse,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10384,0.2078504373586341"
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Fonctions sociales et mÃ©dico-sociales,2082,0.041674172821713804
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Ouvriers de la construction et du bÃ¢timent,1176,0.023539302227826818
+Provence-Alpes-CÃ´te d'Azur,Vaucluse,Ouvriers des secteurs de l'industrie,1812,0.03626974118777398
+Ãle-de-France,Essonne,Autres mÃ©tiers,4688,0.09383694629596269
+Ãle-de-France,Essonne,Autres techniciens et employÃ©s,1247,0.024960467583418404
+Ãle-de-France,Essonne,Fonctions administratives,2110,0.042234632398566826
+Ãle-de-France,Essonne,Fonctions d'encadrement,4484,0.08975359795031926
+"Ãle-de-France,Essonne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",11019,0.2205608599051222"
+Ãle-de-France,Essonne,Fonctions sociales et mÃ©dico-sociales,4523,0.09053423807522168
+Ãle-de-France,Essonne,Ouvriers de la construction et du bÃ¢timent,2553,0.05110190356091995
+Ãle-de-France,Essonne,Ouvriers des secteurs de l'industrie,2664,0.053323725454872996
+Ãle-de-France,Hauts-de-Seine,Autres mÃ©tiers,3355,0.06715506715506715
+Ãle-de-France,Hauts-de-Seine,Autres techniciens et employÃ©s,1968,0.039392301687383655
+Ãle-de-France,Hauts-de-Seine,Fonctions administratives,10794,0.216057166876839
+Ãle-de-France,Hauts-de-Seine,Fonctions d'encadrement,23767,0.47573009868091837
+"Ãle-de-France,Hauts-de-Seine,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",22295,0.44626593806921677"
+Ãle-de-France,Hauts-de-Seine,Fonctions sociales et mÃ©dico-sociales,8181,0.16375427850837687
+Ãle-de-France,Hauts-de-Seine,Ouvriers de la construction et du bÃ¢timent,2409,0.04821954002281871
+Ãle-de-France,Hauts-de-Seine,Ouvriers des secteurs de l'industrie,2706,0.05416441482015252
+Ãle-de-France,Paris,Autres mÃ©tiers,3516,0.07037770972197202
+Ãle-de-France,Paris,Autres techniciens et employÃ©s,2029,0.04061330290838488
+Ãle-de-France,Paris,Fonctions administratives,21072,0.4217858644088152
+Ãle-de-France,Paris,Fonctions d'encadrement,37338,0.7473728457335015
+"Ãle-de-France,Paris,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",49959,1.0"
+Ãle-de-France,Paris,Fonctions sociales et mÃ©dico-sociales,10088,0.2019255789747593
+Ãle-de-France,Paris,Ouvriers de la construction et du bÃ¢timent,3948,0.07902480033627575
+Ãle-de-France,Paris,Ouvriers des secteurs de l'industrie,3378,0.06761544466462499
+Ãle-de-France,Seine-Saint-Denis,Autres mÃ©tiers,4355,0.08717148061410357
+Ãle-de-France,Seine-Saint-Denis,Autres techniciens et employÃ©s,1343,0.0268820432754859
+Ãle-de-France,Seine-Saint-Denis,Fonctions administratives,4241,0.08488960947977342
+Ãle-de-France,Seine-Saint-Denis,Fonctions d'encadrement,8790,0.17594427430493004
+"Ãle-de-France,Seine-Saint-Denis,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",18789,0.3760883924818351"
+Ãle-de-France,Seine-Saint-Denis,Fonctions sociales et mÃ©dico-sociales,6667,0.13344942853139574
+Ãle-de-France,Seine-Saint-Denis,Ouvriers de la construction et du bÃ¢timent,6577,0.13164795132008247
+Ãle-de-France,Seine-Saint-Denis,Ouvriers des secteurs de l'industrie,2426,0.04855981905162233
+Ãle-de-France,Seine-et-Marne,Autres mÃ©tiers,6457,0.1292459817049981
+Ãle-de-France,Seine-et-Marne,Autres techniciens et employÃ©s,1327,0.026561780660141317
+Ãle-de-France,Seine-et-Marne,Fonctions administratives,1561,0.031245621409555835
+Ãle-de-France,Seine-et-Marne,Fonctions d'encadrement,3317,0.06639444344362377
+"Ãle-de-France,Seine-et-Marne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",12501,0.25022518465141413"
+Ãle-de-France,Seine-et-Marne,Fonctions sociales et mÃ©dico-sociales,4552,0.09111471406553374
+Ãle-de-France,Seine-et-Marne,Ouvriers de la construction et du bÃ¢timent,3500,0.07005744710662744
+Ãle-de-France,Seine-et-Marne,Ouvriers des secteurs de l'industrie,2962,0.059288616665665844
+Ãle-de-France,Val-d'Oise,Autres mÃ©tiers,4132,0.08270782041273844
+Ãle-de-France,Val-d'Oise,Autres techniciens et employÃ©s,1093,0.021877939910726795
+Ãle-de-France,Val-d'Oise,Fonctions administratives,1906,0.038151284052923395
+Ãle-de-France,Val-d'Oise,Fonctions d'encadrement,3772,0.07550191156748534
+"Ãle-de-France,Val-d'Oise,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",10266,0.20548850057046777"
+Ãle-de-France,Val-d'Oise,Fonctions sociales et mÃ©dico-sociales,3978,0.07962529274004684
+Ãle-de-France,Val-d'Oise,Ouvriers de la construction et du bÃ¢timent,3771,0.0754818951540263
+Ãle-de-France,Val-d'Oise,Ouvriers des secteurs de l'industrie,2563,0.051302067695510316
+Ãle-de-France,Val-de-Marne,Autres mÃ©tiers,4544,0.09095458275786145
+Ãle-de-France,Val-de-Marne,Autres techniciens et employÃ©s,1084,0.021697792189595468
+Ãle-de-France,Val-de-Marne,Fonctions administratives,2811,0.056266138233351345
+Ãle-de-France,Val-de-Marne,Fonctions d'encadrement,7087,0.14185632218419103
+"Ãle-de-France,Val-de-Marne,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",14221,0.28465341580095677"
+Ãle-de-France,Val-de-Marne,Fonctions sociales et mÃ©dico-sociales,5795,0.115995115995116
+Ãle-de-France,Val-de-Marne,Ouvriers de la construction et du bÃ¢timent,3460,0.06925679056826597
+Ãle-de-France,Val-de-Marne,Ouvriers des secteurs de l'industrie,1431,0.028643487659881103
+Ãle-de-France,Yvelines,Autres mÃ©tiers,4062,0.0813066714706059
+Ãle-de-France,Yvelines,Autres techniciens et employÃ©s,1890,0.03783102143757881
+Ãle-de-France,Yvelines,Fonctions administratives,3893,0.07792389759602875
+Ãle-de-France,Yvelines,Fonctions d'encadrement,5480,0.10968994575551953
+"Ãle-de-France,Yvelines,""Fonctions liÃ©es Ã  la vente, au tourisme et aux services"",12855,0.25731099501591304"
+Ãle-de-France,Yvelines,Fonctions sociales et mÃ©dico-sociales,4717,0.09441742228627474
+Ãle-de-France,Yvelines,Ouvriers de la construction et du bÃ¢timent,2527,0.05058147681098501
+Ãle-de-France,Yvelines,Ouvriers des secteurs de l'industrie,2330,0.04663824335955483
